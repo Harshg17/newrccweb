@@ -1,0 +1,68 @@
+body{
+    text-align: center;
+    background-color: #B2C9AD;
+}
+
+.section1{
+    background-image: linear-gradient(#B2C9AD,#66785F);
+}
+.section1 .logo{
+    color: aliceblue;
+}
+
+
+.brand{
+    font-family: "Dancing Script", serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.collapse li{
+    font-size: 20px;
+}
+.section2 h1{
+    color: #4B5945;
+}
+.section2 img{
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px #66785F;
+}
+
+.chefimg{
+    padding-bottom: 40px;
+}
+
+.section2 h1{
+    text-align: right;
+}
+
+.section2 p{
+    text-align:justify;
+}
+#meet{
+    text-align: right;
+}
+.socialbar{
+    display: flex;
+    margin-right: 0px;
+}
+
+.social{
+    background-color: #B2C9AD;
+}
+
+.social {
+    color: #4B5945;
+}
+
+.carousel{
+    width: 80%;
+}
+
+.section3{
+    padding-bottom: 40px;
+}
+
+.section4 a{
+    color: aliceblue;
+}
